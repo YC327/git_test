@@ -1,2 +1,4 @@
 press i to insert
 press esc for command mode
+
+edit and 2nd commit 
